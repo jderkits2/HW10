@@ -69,7 +69,7 @@ suppressWarnings(print(plot))
 # My CV
 
 
-[Click here to view my CV](my_cv.pdf)
+[Click here to view my CV](CV.pdf)
 
 
 
