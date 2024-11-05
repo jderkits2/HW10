@@ -64,5 +64,5 @@ plot
 
 # My CV
 
-[View My CV](my_cv.pdf)
+[View My CV](CV.pdf)
 
